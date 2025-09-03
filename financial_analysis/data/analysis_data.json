@@ -1,0 +1,3918 @@
+{
+  "ABB": {
+    "company_id": "ABB",
+    "company_name": "ABB",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.28,
+        "5_years": 7.07,
+        "10_years": 8.78
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.63,
+        "5_years": 13.21,
+        "10_years": 17.55
+      },
+      "return_on_equity": {
+        "3_years": 32.91,
+        "5_years": 30.72,
+        "10_years": 26.54
+      },
+      "debt_analysis": {
+        "current_debt": 60.0,
+        "current_equity": 3521.0,
+        "debt_to_equity_ratio": 1.7,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 32.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.3% over past 3 years.",
+      "The company has delivered a poor sales growth of 7.1% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "ADANIENSOL": {
+    "company_id": "ADANIENSOL",
+    "company_name": "ADANIENSOL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 18.46,
+        "5_years": 17.36,
+        "10_years": 25.98
+      },
+      "compounded_profit_growth": {
+        "3_years": -22.82,
+        "5_years": -14.51,
+        "10_years": 4.82
+      },
+      "return_on_equity": {
+        "3_years": 7.72,
+        "5_years": 10.02,
+        "10_years": 11.21
+      },
+      "debt_analysis": {
+        "current_debt": 39009.0,
+        "current_equity": 20985.0,
+        "debt_to_equity_ratio": 185.89,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good sales growth of 18.5% over past 3 years",
+      "Company has delivered good sales growth of 17.4% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 185.9%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 7.7% over last 3 years."
+    ],
+    "status": "success"
+  },
+  "ADANIENT": {
+    "company_id": "ADANIENT",
+    "company_name": "ADANIENT",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -7.08,
+        "5_years": 20.94,
+        "10_years": 11.64
+      },
+      "compounded_profit_growth": {
+        "3_years": 35.95,
+        "5_years": 42.22,
+        "10_years": 19.79
+      },
+      "return_on_equity": {
+        "3_years": 10.13,
+        "5_years": 8.01,
+        "10_years": 6.75
+      },
+      "debt_analysis": {
+        "current_debt": 80427.0,
+        "current_equity": 41896.0,
+        "debt_to_equity_ratio": 191.97,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 36.0% over past 3 years",
+      "Company has delivered good profit growth of 42.2% over past 5 years",
+      "Company has delivered good sales growth of 20.9% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 192.0%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 8.0% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "ADANIGREEN": {
+    "company_id": "ADANIGREEN",
+    "company_name": "ADANIGREEN",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 11.51,
+        "5_years": 28.11,
+        "10_years": null
+      },
+      "compounded_profit_growth": {
+        "3_years": 25.6,
+        "5_years": 60.33,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 14.79,
+        "5_years": 14.27,
+        "10_years": null
+      },
+      "debt_analysis": {
+        "current_debt": 67430.0,
+        "current_equity": 10576.0,
+        "debt_to_equity_ratio": 637.58,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 25.6% over past 3 years",
+      "Company has delivered good profit growth of 60.3% over past 5 years",
+      "Company has delivered good sales growth of 28.1% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 637.6%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "ADANIPORTS": {
+    "company_id": "ADANIPORTS",
+    "company_name": "ADANIPORTS",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.9,
+        "5_years": 17.78,
+        "10_years": 14.87
+      },
+      "compounded_profit_growth": {
+        "3_years": 21.81,
+        "5_years": 14.05,
+        "10_years": 13.06
+      },
+      "return_on_equity": {
+        "3_years": 14.76,
+        "5_years": 14.54,
+        "10_years": 16.52
+      },
+      "debt_analysis": {
+        "current_debt": 50485.0,
+        "current_equity": 57176.0,
+        "debt_to_equity_ratio": 88.3,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 21.8% over past 3 years",
+      "Company has delivered good sales growth of 17.8% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 88.3%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "ADANIPOWER": {
+    "company_id": "ADANIPOWER",
+    "company_name": "ADANIPOWER",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 12.12,
+        "5_years": 15.82,
+        "10_years": 7.97
+      },
+      "compounded_profit_growth": {
+        "3_years": 5.75,
+        "5_years": 58.45,
+        "10_years": 36.84
+      },
+      "return_on_equity": {
+        "3_years": 35.62,
+        "5_years": 28.63,
+        "10_years": -33.97
+      },
+      "debt_analysis": {
+        "current_debt": 37705.0,
+        "current_equity": 55954.0,
+        "debt_to_equity_ratio": 67.39,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 35.6%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 28.6%",
+      "Company has delivered good profit growth of 58.5% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 67.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor profit growth of 5.8% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "AMBUJACEM": {
+    "company_id": "AMBUJACEM",
+    "company_name": "AMBUJACEM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -5.51,
+        "5_years": 6.03,
+        "10_years": 13.28
+      },
+      "compounded_profit_growth": {
+        "3_years": 8.58,
+        "5_years": 4.5,
+        "10_years": 16.96
+      },
+      "return_on_equity": {
+        "3_years": 9.55,
+        "5_years": 11.39,
+        "10_years": 10.63
+      },
+      "debt_analysis": {
+        "current_debt": 779.0,
+        "current_equity": 50376.0,
+        "debt_to_equity_ratio": 1.55,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free."
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 9.6% over last 3 years.",
+      "The company has delivered a poor sales growth of -5.5% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "APOLLOHOSP": {
+    "company_id": "APOLLOHOSP",
+    "company_name": "APOLLOHOSP",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 7.21,
+        "5_years": 14.15,
+        "10_years": 12.78
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.19,
+        "5_years": 54.96,
+        "10_years": 17.94
+      },
+      "return_on_equity": {
+        "3_years": 14.47,
+        "5_years": 13.22,
+        "10_years": 9.79
+      },
+      "debt_analysis": {
+        "current_debt": 7371.0,
+        "current_equity": 7501.0,
+        "debt_to_equity_ratio": 98.27,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 55.0% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 98.3%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 7.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "ASIANPAINT": {
+    "company_id": "ASIANPAINT",
+    "company_name": "ASIANPAINT",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 0.33,
+        "5_years": 9.91,
+        "10_years": 9.33
+      },
+      "compounded_profit_growth": {
+        "3_years": 3.35,
+        "5_years": 7.63,
+        "10_years": 9.89
+      },
+      "return_on_equity": {
+        "3_years": 27.2,
+        "5_years": 25.8,
+        "10_years": 25.88
+      },
+      "debt_analysis": {
+        "current_debt": 2516.0,
+        "current_equity": 18024.0,
+        "debt_to_equity_ratio": 13.96,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 27.2%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 25.8%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 0.3% over past 3 years.",
+      "The company has delivered a poor sales growth of 9.9% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "ATGL": {
+    "company_id": "ATGL",
+    "company_name": "ATGL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.3,
+        "5_years": 23.26,
+        "10_years": null
+      },
+      "compounded_profit_growth": {
+        "3_years": 6.95,
+        "5_years": 7.61,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 18.1,
+        "5_years": 19.86,
+        "10_years": null
+      },
+      "debt_analysis": {
+        "current_debt": 1457.0,
+        "current_equity": 3911.0,
+        "debt_to_equity_ratio": 37.25,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 18.1%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 19.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 3.3% over past 3 years.",
+      "The company has delivered a poor profit growth of 7.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "AXISBANK": {
+    "company_id": "AXISBANK",
+    "company_name": "AXISBANK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 12.31,
+        "5_years": 13.75,
+        "10_years": 11.4
+      },
+      "compounded_profit_growth": {
+        "3_years": 40.17,
+        "5_years": 31.98,
+        "10_years": 12.36
+      },
+      "return_on_equity": {
+        "3_years": 14.69,
+        "5_years": 12.85,
+        "10_years": 9.96
+      },
+      "debt_analysis": {
+        "current_debt": 1295302.0,
+        "current_equity": 157023.0,
+        "debt_to_equity_ratio": 824.91,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 40.2% over past 3 years",
+      "Company has delivered good profit growth of 32.0% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 824.9%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "BAJAJ-AUTO": {
+    "company_id": "BAJAJ-AUTO",
+    "company_name": "BAJAJ-AUTO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.29,
+        "5_years": 12.0,
+        "10_years": 8.04
+      },
+      "compounded_profit_growth": {
+        "3_years": 6.75,
+        "5_years": 8.7,
+        "10_years": 6.14
+      },
+      "return_on_equity": {
+        "3_years": 23.68,
+        "5_years": 21.9,
+        "10_years": 22.72
+      },
+      "debt_analysis": {
+        "current_debt": 5245.0,
+        "current_equity": 30979.0,
+        "debt_to_equity_ratio": 16.93,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 23.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 21.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor profit growth of 6.8% over past 3 years.",
+      "The company has delivered a poor profit growth of 8.7% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "BAJAJFINSV": {
+    "company_id": "BAJAJFINSV",
+    "company_name": "BAJAJFINSV",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 15.44,
+        "5_years": 15.82,
+        "10_years": 19.92
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.6,
+        "5_years": 17.53,
+        "10_years": 19.53
+      },
+      "return_on_equity": {
+        "3_years": 25.45,
+        "5_years": 23.51,
+        "10_years": 22.15
+      },
+      "debt_analysis": {
+        "current_debt": 318675.0,
+        "current_equity": 68325.0,
+        "debt_to_equity_ratio": 466.41,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 25.4%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 23.5%",
+      "Company has delivered good profit growth of 17.5% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 466.4%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "BAJAJHLDNG": {
+    "company_id": "BAJAJHLDNG",
+    "company_name": "BAJAJHLDNG",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 49.18,
+        "5_years": 30.55,
+        "10_years": 13.94
+      },
+      "compounded_profit_growth": {
+        "3_years": 14.81,
+        "5_years": 15.42,
+        "10_years": 12.7
+      },
+      "return_on_equity": {
+        "3_years": 12.43,
+        "5_years": 11.35,
+        "10_years": 11.84
+      },
+      "debt_analysis": {
+        "current_debt": 47.0,
+        "current_equity": 59823.0,
+        "debt_to_equity_ratio": 0.08,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 15.4% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "BAJFINANCE": {
+    "company_id": "BAJFINANCE",
+    "company_name": "BAJFINANCE",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 14.57,
+        "5_years": 18.48,
+        "10_years": 23.91
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.17,
+        "5_years": 28.34,
+        "10_years": 28.24
+      },
+      "return_on_equity": {
+        "3_years": 19.25,
+        "5_years": 17.16,
+        "10_years": 17.44
+      },
+      "debt_analysis": {
+        "current_debt": 324218.0,
+        "current_equity": 86803.0,
+        "debt_to_equity_ratio": 373.51,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.2%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 17.2%",
+      "Company has delivered good profit growth of 28.3% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 373.5%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "BANKBARODA": {
+    "company_id": "BANKBARODA",
+    "company_name": "BANKBARODA",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 9.52,
+        "5_years": 10.81,
+        "10_years": 10.49
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.32,
+        "5_years": 65.55,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 17.04,
+        "5_years": 12.58,
+        "10_years": 5.53
+      },
+      "debt_analysis": {
+        "current_debt": 1453761.0,
+        "current_equity": 119713.0,
+        "debt_to_equity_ratio": 1214.37,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 17.0%",
+      "Company has delivered good profit growth of 65.5% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 1214.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.5% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "BEL": {
+    "company_id": "BEL",
+    "company_name": "BEL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 6.75,
+        "5_years": 8.87,
+        "10_years": 11.36
+      },
+      "compounded_profit_growth": {
+        "3_years": 15.0,
+        "5_years": 16.68,
+        "10_years": 13.01
+      },
+      "return_on_equity": {
+        "3_years": 4571.83,
+        "5_years": 4150.61,
+        "10_years": 5383.34
+      },
+      "debt_analysis": {
+        "current_debt": 78.0,
+        "current_equity": 91.0,
+        "debt_to_equity_ratio": 85.71,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 4571.8%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 4150.6%",
+      "Company has delivered good profit growth of 16.7% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 85.7%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 6.8% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "BHARTIARTL": {
+    "company_id": "BHARTIARTL",
+    "company_name": "BHARTIARTL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.77,
+        "5_years": 9.09,
+        "10_years": 4.88
+      },
+      "compounded_profit_growth": {
+        "3_years": 3.99,
+        "5_years": null,
+        "10_years": 7.2
+      },
+      "return_on_equity": {
+        "3_years": 14.02,
+        "5_years": 6.71,
+        "10_years": 1.59
+      },
+      "debt_analysis": {
+        "current_debt": 225541.0,
+        "current_equity": 87098.0,
+        "debt_to_equity_ratio": 258.95,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 259.0%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 6.7% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "BHEL": {
+    "company_id": "BHEL",
+    "company_name": "BHEL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.4,
+        "5_years": 8.34,
+        "10_years": 0.13
+      },
+      "compounded_profit_growth": {
+        "3_years": -12.04,
+        "5_years": null,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 1.89,
+        "5_years": -0.61,
+        "10_years": -0.43
+      },
+      "debt_analysis": {
+        "current_debt": 9128.0,
+        "current_equity": 24199.0,
+        "debt_to_equity_ratio": 37.72,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 1.9% over last 3 years.",
+      "Company has a low return on equity of -0.6% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "BOSCHLTD": {
+    "company_id": "BOSCHLTD",
+    "company_name": "BOSCHLTD",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.73,
+        "5_years": 12.03,
+        "10_years": 5.86
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.53,
+        "5_years": 34.02,
+        "10_years": 3.13
+      },
+      "return_on_equity": {
+        "3_years": 16.64,
+        "5_years": 13.24,
+        "10_years": 14.03
+      },
+      "debt_analysis": {
+        "current_debt": 31.0,
+        "current_equity": 12738.0,
+        "debt_to_equity_ratio": 0.24,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 16.6%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.7% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "BPCL": {
+    "company_id": "BPCL",
+    "company_name": "BPCL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -1.98,
+        "5_years": 14.12,
+        "10_years": 9.02
+      },
+      "compounded_profit_growth": {
+        "3_years": 86.1,
+        "5_years": -4.53,
+        "10_years": 5.44
+      },
+      "return_on_equity": {
+        "3_years": 19.1,
+        "5_years": 22.43,
+        "10_years": 23.09
+      },
+      "debt_analysis": {
+        "current_debt": 58880.0,
+        "current_equity": 77108.0,
+        "debt_to_equity_ratio": 76.36,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.1%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 22.4%",
+      "Company has delivered good profit growth of 86.1% over past 3 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 76.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -2.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "BRITANNIA": {
+    "company_id": "BRITANNIA",
+    "company_name": "BRITANNIA",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 1.89,
+        "5_years": 5.59,
+        "10_years": 7.46
+      },
+      "compounded_profit_growth": {
+        "3_years": -2.77,
+        "5_years": 2.84,
+        "10_years": 9.94
+      },
+      "return_on_equity": {
+        "3_years": 62.0,
+        "5_years": 59.49,
+        "10_years": 45.8
+      },
+      "debt_analysis": {
+        "current_debt": 2754.0,
+        "current_equity": 3210.0,
+        "debt_to_equity_ratio": 85.79,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 62.0%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 59.5%"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 85.8%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 1.9% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "CANBK": {
+    "company_id": "CANBK",
+    "company_name": "CANBK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 11.61,
+        "5_years": 11.19,
+        "10_years": 10.49
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.46,
+        "5_years": 41.16,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 17.98,
+        "5_years": 14.2,
+        "10_years": 5.32
+      },
+      "debt_analysis": {
+        "current_debt": 1369780.0,
+        "current_equity": 92133.0,
+        "debt_to_equity_ratio": 1486.74,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 18.0%",
+      "Company has delivered good profit growth of 41.2% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 1486.7%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "CHOLAFIN": {
+    "company_id": "CHOLAFIN",
+    "company_name": "CHOLAFIN",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 20.43,
+        "5_years": 18.62,
+        "10_years": 18.24
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.07,
+        "5_years": 20.42,
+        "10_years": 20.95
+      },
+      "return_on_equity": {
+        "3_years": 18.01,
+        "5_years": 17.63,
+        "10_years": 17.06
+      },
+      "debt_analysis": {
+        "current_debt": 157943.0,
+        "current_equity": 21411.0,
+        "debt_to_equity_ratio": 737.67,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 18.0%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 17.6%",
+      "Company has delivered good profit growth of 20.4% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 737.7%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "CIPLA": {
+    "company_id": "CIPLA",
+    "company_name": "CIPLA",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 5.85,
+        "5_years": 7.09,
+        "10_years": 6.94
+      },
+      "compounded_profit_growth": {
+        "3_years": 20.74,
+        "5_years": 15.86,
+        "10_years": 13.68
+      },
+      "return_on_equity": {
+        "3_years": 15.08,
+        "5_years": 14.1,
+        "10_years": 12.02
+      },
+      "debt_analysis": {
+        "current_debt": 461.0,
+        "current_equity": 28363.0,
+        "debt_to_equity_ratio": 1.63,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 15.1%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 5.8% over past 3 years.",
+      "The company has delivered a poor sales growth of 7.1% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "COALINDIA": {
+    "company_id": "COALINDIA",
+    "company_name": "COALINDIA",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 0.5,
+        "5_years": 9.28,
+        "10_years": 6.07
+      },
+      "compounded_profit_growth": {
+        "3_years": 2.69,
+        "5_years": 22.01,
+        "10_years": 9.18
+      },
+      "return_on_equity": {
+        "3_years": 44.34,
+        "5_years": 41.62,
+        "10_years": 43.97
+      },
+      "debt_analysis": {
+        "current_debt": 7816.0,
+        "current_equity": 96197.0,
+        "debt_to_equity_ratio": 8.12,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 44.3%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 41.6%",
+      "Company has delivered good profit growth of 22.0% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 0.5% over past 3 years.",
+      "The company has delivered a poor sales growth of 9.3% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "DABUR": {
+    "company_id": "DABUR",
+    "company_name": "DABUR",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 2.58,
+        "5_years": 5.42,
+        "10_years": 4.81
+      },
+      "compounded_profit_growth": {
+        "3_years": 1.14,
+        "5_years": 0.76,
+        "10_years": 3.45
+      },
+      "return_on_equity": {
+        "3_years": 18.1,
+        "5_years": 19.44,
+        "10_years": 22.51
+      },
+      "debt_analysis": {
+        "current_debt": 1752.0,
+        "current_equity": 10362.0,
+        "debt_to_equity_ratio": 16.91,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 18.1%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 19.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 2.6% over past 3 years.",
+      "The company has delivered a poor sales growth of 5.4% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "DLF": {
+    "company_id": "DLF",
+    "company_name": "DLF",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 7.12,
+        "5_years": 5.28,
+        "10_years": -3.43
+      },
+      "compounded_profit_growth": {
+        "3_years": 25.33,
+        "5_years": 29.89,
+        "10_years": 29.37
+      },
+      "return_on_equity": {
+        "3_years": 7.42,
+        "5_years": 5.89,
+        "10_years": 4.85
+      },
+      "debt_analysis": {
+        "current_debt": 4290.0,
+        "current_equity": 40227.0,
+        "debt_to_equity_ratio": 10.66,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 25.3% over past 3 years",
+      "Company has delivered good profit growth of 29.9% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 7.4% over last 3 years.",
+      "Company has a low return on equity of 5.9% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "DMART": {
+    "company_id": "DMART",
+    "company_name": "DMART",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.12,
+        "5_years": 18.83,
+        "10_years": 20.89
+      },
+      "compounded_profit_growth": {
+        "3_years": 4.58,
+        "5_years": 19.87,
+        "10_years": 23.86
+      },
+      "return_on_equity": {
+        "3_years": 13.95,
+        "5_years": 12.36,
+        "10_years": 14.04
+      },
+      "debt_analysis": {
+        "current_debt": 713.0,
+        "current_equity": 20138.0,
+        "debt_to_equity_ratio": 3.54,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has delivered good profit growth of 19.9% over past 5 years",
+      "Company has delivered good sales growth of 18.8% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor profit growth of 4.6% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "DRREDDY": {
+    "company_id": "DRREDDY",
+    "company_name": "DRREDDY",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 8.18,
+        "5_years": 10.39,
+        "10_years": 7.21
+      },
+      "compounded_profit_growth": {
+        "3_years": 6.52,
+        "5_years": 22.79,
+        "10_years": 9.84
+      },
+      "return_on_equity": {
+        "3_years": 18.94,
+        "5_years": 15.85,
+        "10_years": 14.12
+      },
+      "debt_analysis": {
+        "current_debt": 4854.0,
+        "current_equity": 30749.0,
+        "debt_to_equity_ratio": 15.79,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 18.9%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 15.8%",
+      "Company has delivered good profit growth of 22.8% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 8.2% over past 3 years.",
+      "The company has delivered a poor profit growth of 6.5% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "EICHERMOT": {
+    "company_id": "EICHERMOT",
+    "company_name": "EICHERMOT",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 5.77,
+        "5_years": 14.41,
+        "10_years": 10.72
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.57,
+        "5_years": 25.94,
+        "10_years": 12.3
+      },
+      "return_on_equity": {
+        "3_years": 21.37,
+        "5_years": 17.84,
+        "10_years": 22.79
+      },
+      "debt_analysis": {
+        "current_debt": 404.0,
+        "current_equity": 18979.0,
+        "debt_to_equity_ratio": 2.13,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 21.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 5.8% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "GAIL": {
+    "company_id": "GAIL",
+    "company_name": "GAIL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -2.24,
+        "5_years": 18.86,
+        "10_years": 10.09
+      },
+      "compounded_profit_growth": {
+        "3_years": 27.29,
+        "5_years": 13.44,
+        "10_years": 19.94
+      },
+      "return_on_equity": {
+        "3_years": 11.75,
+        "5_years": 13.2,
+        "10_years": 12.48
+      },
+      "debt_analysis": {
+        "current_debt": 19632.0,
+        "current_equity": 83809.0,
+        "debt_to_equity_ratio": 23.42,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 27.3% over past 3 years",
+      "Company has delivered good sales growth of 18.9% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -2.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "GODREJCP": {
+    "company_id": "GODREJCP",
+    "company_name": "GODREJCP",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 2.05,
+        "5_years": 5.11,
+        "10_years": 5.32
+      },
+      "compounded_profit_growth": {
+        "3_years": null,
+        "5_years": null,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 1.39,
+        "5_years": 7.57,
+        "10_years": 15.93
+      },
+      "debt_analysis": {
+        "current_debt": 3828.0,
+        "current_equity": 12170.0,
+        "debt_to_equity_ratio": 31.45,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 1.4% over last 3 years.",
+      "Company has a low return on equity of 7.6% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "GRASIM": {
+    "company_id": "GRASIM",
+    "company_name": "GRASIM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 5.24,
+        "5_years": 12.41,
+        "10_years": 14.8
+      },
+      "compounded_profit_growth": {
+        "3_years": -7.76,
+        "5_years": 4.47,
+        "10_years": 9.67
+      },
+      "return_on_equity": {
+        "3_years": 11.54,
+        "5_years": 12.02,
+        "10_years": 10.91
+      },
+      "debt_analysis": {
+        "current_debt": 158159.0,
+        "current_equity": 92918.0,
+        "debt_to_equity_ratio": 170.21,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 170.2%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 5.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "HAL": {
+    "company_id": "HAL",
+    "company_name": "HAL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.98,
+        "5_years": 6.37,
+        "10_years": 6.4
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.39,
+        "5_years": 21.2,
+        "10_years": 15.54
+      },
+      "return_on_equity": {
+        "3_years": 3730.8,
+        "5_years": 3353.18,
+        "10_years": 2574.96
+      },
+      "debt_analysis": {
+        "current_debt": 124.0,
+        "current_equity": 207.0,
+        "debt_to_equity_ratio": 59.9,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 3730.8%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 3353.2%",
+      "Company has delivered good profit growth of 21.2% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 59.9%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 5.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "HAVELLS": {
+    "company_id": "HAVELLS",
+    "company_name": "HAVELLS",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 6.93,
+        "5_years": 14.61,
+        "10_years": 10.54
+      },
+      "compounded_profit_growth": {
+        "3_years": 9.31,
+        "5_years": 6.04,
+        "10_years": 0.74
+      },
+      "return_on_equity": {
+        "3_years": 17.07,
+        "5_years": 18.26,
+        "10_years": 20.29
+      },
+      "debt_analysis": {
+        "current_debt": 332.0,
+        "current_equity": 7794.0,
+        "debt_to_equity_ratio": 4.26,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 17.1%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 18.3%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 6.9% over past 3 years.",
+      "The company has delivered a poor profit growth of 9.3% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "HCLTECH": {
+    "company_id": "HCLTECH",
+    "company_name": "HCLTECH",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.36,
+        "5_years": 8.87,
+        "10_years": 13.99
+      },
+      "compounded_profit_growth": {
+        "3_years": 4.8,
+        "5_years": 8.87,
+        "10_years": 11.8
+      },
+      "return_on_equity": {
+        "3_years": 23.51,
+        "5_years": 22.2,
+        "10_years": 22.76
+      },
+      "debt_analysis": {
+        "current_debt": 5791.0,
+        "current_equity": 68875.0,
+        "debt_to_equity_ratio": 8.41,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 23.5%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 22.2%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.4% over past 3 years.",
+      "The company has delivered a poor sales growth of 8.9% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "HDFCBANK": {
+    "company_id": "HDFCBANK",
+    "company_name": "HDFCBANK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 24.44,
+        "5_years": 20.68,
+        "10_years": 17.94
+      },
+      "compounded_profit_growth": {
+        "3_years": 16.07,
+        "5_years": 17.77,
+        "10_years": 18.86
+      },
+      "return_on_equity": {
+        "3_years": 19.03,
+        "5_years": 18.67,
+        "10_years": 19.27
+      },
+      "debt_analysis": {
+        "current_debt": 3107503.0,
+        "current_equity": 456396.0,
+        "debt_to_equity_ratio": 680.88,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.0%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 18.7%",
+      "Company has delivered good profit growth of 16.1% over past 3 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 680.9%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "HDFCLIFE": {
+    "company_id": "HDFCLIFE",
+    "company_name": "HDFCLIFE",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 12.8,
+        "5_years": 7.1,
+        "10_years": 18.7
+      },
+      "compounded_profit_growth": {
+        "3_years": 8.49,
+        "5_years": 5.12,
+        "10_years": 7.9
+      },
+      "return_on_equity": {
+        "3_years": 10.82,
+        "5_years": 11.34,
+        "10_years": 17.15
+      },
+      "debt_analysis": {
+        "current_debt": 950.0,
+        "current_equity": 15604.0,
+        "debt_to_equity_ratio": 6.09,
+        "debt_trend": "stable"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 7.1% over past 5 years.",
+      "The company has delivered a poor profit growth of 8.5% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "HEROMOTOCO": {
+    "company_id": "HEROMOTOCO",
+    "company_name": "HEROMOTOCO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 5.49,
+        "5_years": 5.31,
+        "10_years": 3.49
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.86,
+        "5_years": 7.08,
+        "10_years": 2.88
+      },
+      "return_on_equity": {
+        "3_years": 19.9,
+        "5_years": 18.69,
+        "10_years": 24.59
+      },
+      "debt_analysis": {
+        "current_debt": 588.0,
+        "current_equity": 19011.0,
+        "debt_to_equity_ratio": 3.09,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 5.5% over past 3 years.",
+      "The company has delivered a poor sales growth of 5.3% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "HINDALCO": {
+    "company_id": "HINDALCO",
+    "company_name": "HINDALCO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 0.12,
+        "5_years": 11.16,
+        "10_years": 8.54
+      },
+      "compounded_profit_growth": {
+        "3_years": 7.34,
+        "5_years": 29.09,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 10.35,
+        "5_years": 10.77,
+        "10_years": 8.33
+      },
+      "debt_analysis": {
+        "current_debt": 60959.0,
+        "current_equity": 115176.0,
+        "debt_to_equity_ratio": 52.93,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 29.1% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 52.9%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 0.1% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "HINDUNILVR": {
+    "company_id": "HINDUNILVR",
+    "company_name": "HINDUNILVR",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 1.13,
+        "5_years": 5.91,
+        "10_years": 6.89
+      },
+      "compounded_profit_growth": {
+        "3_years": 1.98,
+        "5_years": 6.1,
+        "10_years": 9.99
+      },
+      "return_on_equity": {
+        "3_years": 20.47,
+        "5_years": 19.27,
+        "10_years": 45.7
+      },
+      "debt_analysis": {
+        "current_debt": 1651.0,
+        "current_equity": 50776.0,
+        "debt_to_equity_ratio": 3.25,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 20.5%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 19.3%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 1.1% over past 3 years.",
+      "The company has delivered a poor sales growth of 5.9% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "ICICIBANK": {
+    "company_id": "ICICIBANK",
+    "company_name": "ICICIBANK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 14.25,
+        "5_years": 15.16,
+        "10_years": 11.78
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.91,
+        "5_years": 20.81,
+        "10_years": 16.98
+      },
+      "return_on_equity": {
+        "3_years": 20.48,
+        "5_years": 18.97,
+        "10_years": 14.34
+      },
+      "debt_analysis": {
+        "current_debt": 1651008.0,
+        "current_equity": 256144.0,
+        "debt_to_equity_ratio": 644.56,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 20.5%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 19.0%",
+      "Company has delivered good profit growth of 20.8% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 644.6%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "ICICIGI": {
+    "company_id": "ICICIGI",
+    "company_name": "ICICIGI",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 9.24,
+        "5_years": 13.89,
+        "10_years": 14.47
+      },
+      "compounded_profit_growth": {
+        "3_years": 13.35,
+        "5_years": 11.32,
+        "10_years": 17.38
+      },
+      "return_on_equity": {
+        "3_years": 16.92,
+        "5_years": 16.79,
+        "10_years": 17.55
+      },
+      "debt_analysis": {
+        "current_debt": 0.0,
+        "current_equity": 13625.0,
+        "debt_to_equity_ratio": 0.0,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 16.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "ICICIPRULI": {
+    "company_id": "ICICIPRULI",
+    "company_name": "ICICIPRULI",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 15.4,
+        "5_years": -1.39,
+        "10_years": 14.04
+      },
+      "compounded_profit_growth": {
+        "3_years": 6.21,
+        "5_years": 0.37,
+        "10_years": -5.13
+      },
+      "return_on_equity": {
+        "3_years": 8.07,
+        "5_years": 8.6,
+        "10_years": 15.62
+      },
+      "debt_analysis": {
+        "current_debt": 0.0,
+        "current_equity": 11574.0,
+        "debt_to_equity_ratio": 0.0,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has delivered good sales growth of 15.4% over past 3 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 8.1% over last 3 years.",
+      "Company has a low return on equity of 8.6% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "INDIGO": {
+    "company_id": "INDIGO",
+    "company_name": "INDIGO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 11.99,
+        "5_years": 39.18,
+        "10_years": 16.83
+      },
+      "compounded_profit_growth": {
+        "3_years": null,
+        "5_years": null,
+        "10_years": 11.83
+      },
+      "return_on_equity": {
+        "3_years": 496.38,
+        "5_years": 69.24,
+        "10_years": 579.82
+      },
+      "debt_analysis": {
+        "current_debt": 20.0,
+        "current_equity": 953.0,
+        "debt_to_equity_ratio": 2.1,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 496.4%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 69.2%"
+    ],
+    "cons": [
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "INDUSINDBK": {
+    "company_id": "INDUSINDBK",
+    "company_name": "INDUSINDBK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.45,
+        "5_years": 11.06,
+        "10_years": 15.23
+      },
+      "compounded_profit_growth": {
+        "3_years": 3.2,
+        "5_years": 23.42,
+        "10_years": 13.52
+      },
+      "return_on_equity": {
+        "3_years": 14.94,
+        "5_years": 12.72,
+        "10_years": 14.92
+      },
+      "debt_analysis": {
+        "current_debt": 432404.0,
+        "current_equity": 62797.0,
+        "debt_to_equity_ratio": 688.57,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 23.4% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 688.6%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor profit growth of 3.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "INFY": {
+    "company_id": "INFY",
+    "company_name": "INFY",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 2.92,
+        "5_years": 9.75,
+        "10_years": 9.87
+      },
+      "compounded_profit_growth": {
+        "3_years": 4.72,
+        "5_years": 7.35,
+        "10_years": 7.46
+      },
+      "return_on_equity": {
+        "3_years": 30.79,
+        "5_years": 29.44,
+        "10_years": 26.37
+      },
+      "debt_analysis": {
+        "current_debt": 8804.0,
+        "current_equity": 90463.0,
+        "debt_to_equity_ratio": 9.73,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 30.8%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 29.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 2.9% over past 3 years.",
+      "The company has delivered a poor sales growth of 9.8% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "IOC": {
+    "company_id": "IOC",
+    "company_name": "IOC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -3.29,
+        "5_years": 15.91,
+        "10_years": 8.21
+      },
+      "compounded_profit_growth": {
+        "3_years": -2.32,
+        "5_years": -12.9,
+        "10_years": -1.28
+      },
+      "return_on_equity": {
+        "3_years": 12.64,
+        "5_years": 15.33,
+        "10_years": 14.37
+      },
+      "debt_analysis": {
+        "current_debt": 163401.0,
+        "current_equity": 181366.0,
+        "debt_to_equity_ratio": 90.09,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 15.3%",
+      "Company has delivered good sales growth of 15.9% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 90.1%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -3.3% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "IRCTC": {
+    "company_id": "IRCTC",
+    "company_name": "IRCTC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 7.95,
+        "5_years": 41.8,
+        "10_years": 12.54
+      },
+      "compounded_profit_growth": {
+        "3_years": 6.05,
+        "5_years": 45.03,
+        "10_years": 20.3
+      },
+      "return_on_equity": {
+        "3_years": 36.35,
+        "5_years": 31.44,
+        "10_years": 31.22
+      },
+      "debt_analysis": {
+        "current_debt": 42.0,
+        "current_equity": 3523.0,
+        "debt_to_equity_ratio": 1.19,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 36.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 8.0% over past 3 years.",
+      "The company has delivered a poor profit growth of 6.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "IRFC": {
+    "company_id": "IRFC",
+    "company_name": "IRFC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.28,
+        "5_years": 11.27,
+        "10_years": 13.61
+      },
+      "compounded_profit_growth": {
+        "3_years": 1.96,
+        "5_years": 8.16,
+        "10_years": 22.64
+      },
+      "return_on_equity": {
+        "3_years": 13.18,
+        "5_years": 13.34,
+        "10_years": 11.61
+      },
+      "debt_analysis": {
+        "current_debt": 403111.0,
+        "current_equity": 51465.0,
+        "debt_to_equity_ratio": 783.27,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt."
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 783.3%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.3% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "ITC": {
+    "company_id": "ITC",
+    "company_name": "ITC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 1.94,
+        "5_years": 8.81,
+        "10_years": 6.72
+      },
+      "compounded_profit_growth": {
+        "3_years": 2.26,
+        "5_years": 9.25,
+        "10_years": 8.17
+      },
+      "return_on_equity": {
+        "3_years": 27.9,
+        "5_years": 26.14,
+        "10_years": 24.3
+      },
+      "debt_analysis": {
+        "current_debt": 304.0,
+        "current_equity": 75266.0,
+        "debt_to_equity_ratio": 0.4,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 27.9%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 26.1%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 1.9% over past 3 years.",
+      "The company has delivered a poor sales growth of 8.8% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "JINDALSTEL": {
+    "company_id": "JINDALSTEL",
+    "company_name": "JINDALSTEL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -2.04,
+        "5_years": 7.66,
+        "10_years": 9.9
+      },
+      "compounded_profit_growth": {
+        "3_years": 8.39,
+        "5_years": 3.47,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 11.46,
+        "5_years": 13.35,
+        "10_years": 3.47
+      },
+      "debt_analysis": {
+        "current_debt": 17266.0,
+        "current_equity": 47341.0,
+        "debt_to_equity_ratio": 36.47,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -2.0% over past 3 years.",
+      "The company has delivered a poor sales growth of 7.7% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "JSWENERGY": {
+    "company_id": "JSWENERGY",
+    "company_name": "JSWENERGY",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.38,
+        "5_years": 10.52,
+        "10_years": 1.51
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.34,
+        "5_years": 19.29,
+        "10_years": 3.14
+      },
+      "return_on_equity": {
+        "3_years": 7.78,
+        "5_years": 7.8,
+        "10_years": 7.59
+      },
+      "debt_analysis": {
+        "current_debt": 30853.0,
+        "current_equity": 27971.0,
+        "debt_to_equity_ratio": 110.3,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 19.3% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 110.3%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 7.8% over last 3 years."
+    ],
+    "status": "success"
+  },
+  "JSWSTEEL": {
+    "company_id": "JSWSTEEL",
+    "company_name": "JSWSTEEL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 0.86,
+        "5_years": 16.36,
+        "10_years": 15.15
+      },
+      "compounded_profit_growth": {
+        "3_years": -7.16,
+        "5_years": -15.9,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 7.34,
+        "5_years": 13.99,
+        "10_years": 13.69
+      },
+      "debt_analysis": {
+        "current_debt": 95258.0,
+        "current_equity": 79666.0,
+        "debt_to_equity_ratio": 119.57,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good sales growth of 16.4% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 119.6%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 7.3% over last 3 years."
+    ],
+    "status": "success"
+  },
+  "KOTAKBANK": {
+    "company_id": "KOTAKBANK",
+    "company_name": "KOTAKBANK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 14.97,
+        "5_years": 14.31,
+        "10_years": 12.12
+      },
+      "compounded_profit_growth": {
+        "3_years": 14.71,
+        "5_years": 17.66,
+        "10_years": 20.39
+      },
+      "return_on_equity": {
+        "3_years": 16.35,
+        "5_years": 15.68,
+        "10_years": 15.47
+      },
+      "debt_analysis": {
+        "current_debt": 520374.0,
+        "current_equity": 129972.0,
+        "debt_to_equity_ratio": 400.37,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 16.4%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 15.7%",
+      "Company has delivered good profit growth of 17.7% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 400.4%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "LICI": {
+    "company_id": "LICI",
+    "company_name": "LICI",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.53,
+        "5_years": 5.34,
+        "10_years": null
+      },
+      "compounded_profit_growth": {
+        "3_years": 4.83,
+        "5_years": 69.38,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 56.59,
+        "5_years": 49.87,
+        "10_years": null
+      },
+      "debt_analysis": {
+        "current_debt": 10.0,
+        "current_equity": 97637.0,
+        "debt_to_equity_ratio": 0.01,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 56.6%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 49.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.5% over past 3 years.",
+      "The company has delivered a poor sales growth of 5.3% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "LODHA": {
+    "company_id": "LODHA",
+    "company_name": "LODHA",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 12.75,
+        "5_years": 20.03,
+        "10_years": 5.11
+      },
+      "compounded_profit_growth": {
+        "3_years": 72.41,
+        "5_years": 120.66,
+        "10_years": 13.58
+      },
+      "return_on_equity": {
+        "3_years": 8.86,
+        "5_years": 7.52,
+        "10_years": 14.43
+      },
+      "debt_analysis": {
+        "current_debt": 7990.0,
+        "current_equity": 18184.0,
+        "debt_to_equity_ratio": 43.94,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 72.4% over past 3 years",
+      "Company has delivered good profit growth of 120.7% over past 5 years",
+      "Company has delivered good sales growth of 20.0% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 8.9% over last 3 years.",
+      "Company has a low return on equity of 7.5% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "LT": {
+    "company_id": "LT",
+    "company_name": "LT",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 9.22,
+        "5_years": 11.93,
+        "10_years": 8.98
+      },
+      "compounded_profit_growth": {
+        "3_years": 8.83,
+        "5_years": 4.56,
+        "10_years": 13.4
+      },
+      "return_on_equity": {
+        "3_years": 76.61,
+        "5_years": 95.93,
+        "10_years": 151.98
+      },
+      "debt_analysis": {
+        "current_debt": 2326.0,
+        "current_equity": 21075.0,
+        "debt_to_equity_ratio": 11.04,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 76.6%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 95.9%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.2% over past 3 years.",
+      "The company has delivered a poor profit growth of 8.8% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "LTIM": {
+    "company_id": "LTIM",
+    "company_name": "LTIM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.82,
+        "5_years": 24.59,
+        "10_years": 20.31
+      },
+      "compounded_profit_growth": {
+        "3_years": 1.22,
+        "5_years": 18.74,
+        "10_years": 18.52
+      },
+      "return_on_equity": {
+        "3_years": 23.73,
+        "5_years": 25.07,
+        "10_years": 28.35
+      },
+      "debt_analysis": {
+        "current_debt": 2326.0,
+        "current_equity": 21075.0,
+        "debt_to_equity_ratio": 11.04,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 23.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 25.1%",
+      "Company has delivered good profit growth of 18.7% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 3.8% over past 3 years.",
+      "The company has delivered a poor profit growth of 1.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "M&M": {
+    "company_id": "M&M",
+    "company_name": "M&M",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 6.36,
+        "5_years": 14.46,
+        "10_years": 6.76
+      },
+      "compounded_profit_growth": {
+        "3_years": 4.58,
+        "5_years": 53.79,
+        "10_years": 13.86
+      },
+      "return_on_equity": {
+        "3_years": 19.06,
+        "5_years": 15.24,
+        "10_years": 13.91
+      },
+      "debt_analysis": {
+        "current_debt": 116844.0,
+        "current_equity": 70502.0,
+        "debt_to_equity_ratio": 165.73,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.1%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 15.2%",
+      "Company has delivered good profit growth of 53.8% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 165.7%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 6.4% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "MARUTI": {
+    "company_id": "MARUTI",
+    "company_name": "MARUTI",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 7.04,
+        "5_years": 15.59,
+        "10_years": 9.69
+      },
+      "compounded_profit_growth": {
+        "3_years": 19.27,
+        "5_years": 26.15,
+        "10_years": 9.82
+      },
+      "return_on_equity": {
+        "3_years": 14.19,
+        "5_years": 11.59,
+        "10_years": 14.24
+      },
+      "debt_analysis": {
+        "current_debt": 158.0,
+        "current_equity": 89126.0,
+        "debt_to_equity_ratio": 0.18,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has delivered good profit growth of 19.3% over past 3 years",
+      "Company has delivered good profit growth of 26.1% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 7.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "MOTHERSON": {
+    "company_id": "MOTHERSON",
+    "company_name": "MOTHERSON",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 11.56,
+        "5_years": 13.78,
+        "10_years": 11.38
+      },
+      "compounded_profit_growth": {
+        "3_years": 35.16,
+        "5_years": 21.32,
+        "10_years": 8.8
+      },
+      "return_on_equity": {
+        "3_years": 10.54,
+        "5_years": 9.97,
+        "10_years": 16.99
+      },
+      "debt_analysis": {
+        "current_debt": 25417.0,
+        "current_equity": 32634.0,
+        "debt_to_equity_ratio": 77.89,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 35.2% over past 3 years",
+      "Company has delivered good profit growth of 21.3% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 77.9%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 10.0% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "NAUKRI": {
+    "company_id": "NAUKRI",
+    "company_name": "NAUKRI",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.3,
+        "5_years": 18.74,
+        "10_years": 13.54
+      },
+      "compounded_profit_growth": {
+        "3_years": null,
+        "5_years": -17.23,
+        "10_years": 16.66
+      },
+      "return_on_equity": {
+        "3_years": 0.92,
+        "5_years": 20.75,
+        "10_years": 14.53
+      },
+      "debt_analysis": {
+        "current_debt": 256.0,
+        "current_equity": 41788.0,
+        "debt_to_equity_ratio": 0.61,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 20.8%",
+      "Company has delivered good sales growth of 18.7% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 0.9% over last 3 years.",
+      "The company has delivered a poor sales growth of 4.3% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "NESTLEIND": {
+    "company_id": "NESTLEIND",
+    "company_name": "NESTLEIND",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 1.14,
+        "5_years": 6.06,
+        "10_years": 8.03
+      },
+      "compounded_profit_growth": {
+        "3_years": 3.48,
+        "5_years": 9.43,
+        "10_years": 12.75
+      },
+      "return_on_equity": {
+        "3_years": 107.67,
+        "5_years": 105.81,
+        "10_years": 84.49
+      },
+      "debt_analysis": {
+        "current_debt": 370.0,
+        "current_equity": 3990.0,
+        "debt_to_equity_ratio": 9.27,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 107.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 105.8%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 1.1% over past 3 years.",
+      "The company has delivered a poor sales growth of 6.1% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "NHPC": {
+    "company_id": "NHPC",
+    "company_name": "NHPC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -2.97,
+        "5_years": 0.09,
+        "10_years": 1.49
+      },
+      "compounded_profit_growth": {
+        "3_years": -7.09,
+        "5_years": -1.04,
+        "10_years": 3.75
+      },
+      "return_on_equity": {
+        "3_years": 10.15,
+        "5_years": 10.43,
+        "10_years": 10.08
+      },
+      "debt_analysis": {
+        "current_debt": 34210.0,
+        "current_equity": 40149.0,
+        "debt_to_equity_ratio": 85.21,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 85.2%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -3.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "NTPC": {
+    "company_id": "NTPC",
+    "company_name": "NTPC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 1.8,
+        "5_years": 10.76,
+        "10_years": 9.74
+      },
+      "compounded_profit_growth": {
+        "3_years": 9.61,
+        "5_years": 8.54,
+        "10_years": 7.66
+      },
+      "return_on_equity": {
+        "3_years": 12.77,
+        "5_years": 12.55,
+        "10_years": 11.82
+      },
+      "debt_analysis": {
+        "current_debt": 242009.0,
+        "current_equity": 168272.0,
+        "debt_to_equity_ratio": 143.82,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 143.8%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 1.8% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "ONGC": {
+    "company_id": "ONGC",
+    "company_name": "ONGC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 1.37,
+        "5_years": 16.74,
+        "10_years": 18.17
+      },
+      "compounded_profit_growth": {
+        "3_years": 8.89,
+        "5_years": 14.65,
+        "10_years": 12.44
+      },
+      "return_on_equity": {
+        "3_years": 13.54,
+        "5_years": 13.86,
+        "10_years": 12.49
+      },
+      "debt_analysis": {
+        "current_debt": 191489.0,
+        "current_equity": 352276.0,
+        "debt_to_equity_ratio": 54.36,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good sales growth of 16.7% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 54.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 1.4% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "PFC": {
+    "company_id": "PFC",
+    "company_name": "PFC",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 8.11,
+        "5_years": 6.5,
+        "10_years": 13.42
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.08,
+        "5_years": 12.44,
+        "10_years": 16.41
+      },
+      "return_on_equity": {
+        "3_years": 25.67,
+        "5_years": 25.81,
+        "10_years": 22.04
+      },
+      "debt_analysis": {
+        "current_debt": 910447.0,
+        "current_equity": 110046.0,
+        "debt_to_equity_ratio": 827.33,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 25.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 25.8%"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 827.3%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 8.1% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "PIDILITIND": {
+    "company_id": "PIDILITIND",
+    "company_name": "PIDILITIND",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.02,
+        "5_years": 12.08,
+        "10_years": 9.18
+      },
+      "compounded_profit_growth": {
+        "3_years": 15.25,
+        "5_years": 11.87,
+        "10_years": 9.35
+      },
+      "return_on_equity": {
+        "3_years": 20.43,
+        "5_years": 20.05,
+        "10_years": 23.03
+      },
+      "debt_analysis": {
+        "current_debt": 379.0,
+        "current_equity": 8715.0,
+        "debt_to_equity_ratio": 4.35,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 20.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 3.0% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "PNB": {
+    "company_id": "PNB",
+    "company_name": "PNB",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.17,
+        "5_years": 7.22,
+        "10_years": 8.62
+      },
+      "compounded_profit_growth": {
+        "3_years": 62.96,
+        "5_years": 40.08,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 71.74,
+        "5_years": 58.64,
+        "10_years": -22.73
+      },
+      "debt_analysis": {
+        "current_debt": 55017.0,
+        "current_equity": 14933.0,
+        "debt_to_equity_ratio": 368.43,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 71.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 58.6%",
+      "Company has delivered good profit growth of 63.0% over past 3 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 368.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 7.2% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "POWERGRID": {
+    "company_id": "POWERGRID",
+    "company_name": "POWERGRID",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 0.15,
+        "5_years": 2.94,
+        "10_years": 8.29
+      },
+      "compounded_profit_growth": {
+        "3_years": 0.63,
+        "5_years": 5.48,
+        "10_years": 10.18
+      },
+      "return_on_equity": {
+        "3_years": 17.84,
+        "5_years": 18.56,
+        "10_years": 17.04
+      },
+      "debt_analysis": {
+        "current_debt": 122568.0,
+        "current_equity": 92061.0,
+        "debt_to_equity_ratio": 133.14,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 17.8%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 18.6%"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 133.1%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 0.1% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "RECLTD": {
+    "company_id": "RECLTD",
+    "company_name": "RECLTD",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 9.25,
+        "5_years": 7.69,
+        "10_years": 7.88
+      },
+      "compounded_profit_growth": {
+        "3_years": 10.05,
+        "5_years": 12.18,
+        "10_years": 10.09
+      },
+      "return_on_equity": {
+        "3_years": 19.95,
+        "5_years": 19.71,
+        "10_years": 18.13
+      },
+      "debt_analysis": {
+        "current_debt": 483617.0,
+        "current_equity": 73510.0,
+        "debt_to_equity_ratio": 657.89,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.9%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 19.7%"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 657.9%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.2% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "RELIANCE": {
+    "company_id": "RELIANCE",
+    "company_name": "RELIANCE",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 2.36,
+        "5_years": 15.05,
+        "10_years": 13.18
+      },
+      "compounded_profit_growth": {
+        "3_years": 2.57,
+        "5_years": 8.27,
+        "10_years": 10.35
+      },
+      "return_on_equity": {
+        "3_years": 10.02,
+        "5_years": 9.29,
+        "10_years": 10.21
+      },
+      "debt_analysis": {
+        "current_debt": 357525.0,
+        "current_equity": 819453.0,
+        "debt_to_equity_ratio": 43.63,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has delivered good sales growth of 15.1% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 9.3% over last 5 years.",
+      "The company has delivered a poor sales growth of 2.4% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "SBILIFE": {
+    "company_id": "SBILIFE",
+    "company_name": "SBILIFE",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 17.28,
+        "5_years": 9.69,
+        "10_years": 21.01
+      },
+      "compounded_profit_growth": {
+        "3_years": 11.89,
+        "5_years": 10.61,
+        "10_years": 11.07
+      },
+      "return_on_equity": {
+        "3_years": 13.58,
+        "5_years": 13.54,
+        "10_years": 15.41
+      },
+      "debt_analysis": {
+        "current_debt": 0.0,
+        "current_equity": 16259.0,
+        "debt_to_equity_ratio": 0.0,
+        "debt_trend": "stable"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has delivered good sales growth of 17.3% over past 3 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.7% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "SHREECEM": {
+    "company_id": "SHREECEM",
+    "company_name": "SHREECEM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.52,
+        "5_years": 7.87,
+        "10_years": 13.64
+      },
+      "compounded_profit_growth": {
+        "3_years": -9.9,
+        "5_years": -5.8,
+        "10_years": 4.25
+      },
+      "return_on_equity": {
+        "3_years": 9.79,
+        "5_years": 10.37,
+        "10_years": 12.37
+      },
+      "debt_analysis": {
+        "current_debt": 1682.0,
+        "current_equity": 20879.0,
+        "debt_to_equity_ratio": 8.06,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 9.8% over last 3 years.",
+      "The company has delivered a poor sales growth of 3.5% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "SHRIRAMFIN": {
+    "company_id": "SHRIRAMFIN",
+    "company_name": "SHRIRAMFIN",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 9.34,
+        "5_years": 18.0,
+        "10_years": 14.43
+      },
+      "compounded_profit_growth": {
+        "3_years": 16.24,
+        "5_years": 30.49,
+        "10_years": 23.09
+      },
+      "return_on_equity": {
+        "3_years": 15.67,
+        "5_years": 13.79,
+        "10_years": 14.03
+      },
+      "debt_analysis": {
+        "current_debt": 207820.0,
+        "current_equity": 52392.0,
+        "debt_to_equity_ratio": 396.66,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 15.7%",
+      "Company has delivered good profit growth of 16.2% over past 3 years",
+      "Company has delivered good profit growth of 30.5% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 396.7%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.3% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "SIEMENS": {
+    "company_id": "SIEMENS",
+    "company_name": "SIEMENS",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 11.28,
+        "5_years": 17.46,
+        "10_years": 7.73
+      },
+      "compounded_profit_growth": {
+        "3_years": 20.77,
+        "5_years": 28.73,
+        "10_years": 8.76
+      },
+      "return_on_equity": {
+        "3_years": 15.33,
+        "5_years": 12.92,
+        "10_years": 16.82
+      },
+      "debt_analysis": {
+        "current_debt": 279.0,
+        "current_equity": 15357.0,
+        "debt_to_equity_ratio": 1.82,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 16.0,
+        "dividend_status": "paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 15.3%",
+      "Company has delivered good profit growth of 20.8% over past 3 years"
+    ],
+    "cons": [],
+    "status": "success"
+  },
+  "SUNPHARMA": {
+    "company_id": "SUNPHARMA",
+    "company_name": "SUNPHARMA",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.66,
+        "5_years": 8.47,
+        "10_years": 5.85
+      },
+      "compounded_profit_growth": {
+        "3_years": 9.3,
+        "5_years": 37.38,
+        "10_years": 6.99
+      },
+      "return_on_equity": {
+        "3_years": 15.46,
+        "5_years": 11.67,
+        "10_years": 12.05
+      },
+      "debt_analysis": {
+        "current_debt": 2572.0,
+        "current_equity": 69115.0,
+        "debt_to_equity_ratio": 3.72,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 15.5%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.7% over past 3 years.",
+      "The company has delivered a poor sales growth of 8.5% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "TATACONSUM": {
+    "company_id": "TATACONSUM",
+    "company_name": "TATACONSUM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 5.74,
+        "5_years": 7.03,
+        "10_years": 9.4
+      },
+      "compounded_profit_growth": {
+        "3_years": -3.94,
+        "5_years": 4.7,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 7.26,
+        "5_years": 6.98,
+        "10_years": 5.9
+      },
+      "debt_analysis": {
+        "current_debt": 2955.0,
+        "current_equity": 19132.0,
+        "debt_to_equity_ratio": 15.45,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt."
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 7.3% over last 3 years.",
+      "Company has a low return on equity of 7.0% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "TATAMOTORS": {
+    "company_id": "TATAMOTORS",
+    "company_name": "TATAMOTORS",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 8.35,
+        "5_years": 11.99,
+        "10_years": 4.89
+      },
+      "compounded_profit_growth": {
+        "3_years": 132.52,
+        "5_years": null,
+        "10_years": 11.22
+      },
+      "return_on_equity": {
+        "3_years": 25.62,
+        "5_years": 5.45,
+        "10_years": -0.22
+      },
+      "debt_analysis": {
+        "current_debt": 106549.0,
+        "current_equity": 101062.0,
+        "debt_to_equity_ratio": 105.43,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 25.6%",
+      "Company has delivered good profit growth of 132.5% over past 3 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 105.4%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 5.5% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "TATAPOWER": {
+    "company_id": "TATAPOWER",
+    "company_name": "TATAPOWER",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.83,
+        "5_years": 14.19,
+        "10_years": 7.97
+      },
+      "compounded_profit_growth": {
+        "3_years": 4.94,
+        "5_years": 25.07,
+        "10_years": 18.8
+      },
+      "return_on_equity": {
+        "3_years": 13.18,
+        "5_years": 11.12,
+        "10_years": 10.76
+      },
+      "debt_analysis": {
+        "current_debt": 58314.0,
+        "current_equity": 33680.0,
+        "debt_to_equity_ratio": 173.14,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good profit growth of 25.1% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 173.1%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.8% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "TATASTEEL": {
+    "company_id": "TATASTEEL",
+    "company_name": "TATASTEEL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -3.16,
+        "5_years": 7.18,
+        "10_years": 8.04
+      },
+      "compounded_profit_growth": {
+        "3_years": -32.11,
+        "5_years": -20.96,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 1.77,
+        "5_years": 10.56,
+        "10_years": 8.46
+      },
+      "debt_analysis": {
+        "current_debt": 99392.0,
+        "current_equity": 90147.0,
+        "debt_to_equity_ratio": 110.26,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 110.3%",
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of 1.8% over last 3 years."
+    ],
+    "status": "success"
+  },
+  "TCS": {
+    "company_id": "TCS",
+    "company_name": "TCS",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.79,
+        "5_years": 8.95,
+        "10_years": 8.78
+      },
+      "compounded_profit_growth": {
+        "3_years": 5.03,
+        "5_years": 8.52,
+        "10_years": 7.25
+      },
+      "return_on_equity": {
+        "3_years": 48.67,
+        "5_years": 45.36,
+        "10_years": 39.59
+      },
+      "debt_analysis": {
+        "current_debt": 9046.0,
+        "current_equity": 101495.0,
+        "debt_to_equity_ratio": 8.91,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 48.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 45.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 3.8% over past 3 years.",
+      "The company has delivered a poor sales growth of 8.9% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "TECHM": {
+    "company_id": "TECHM",
+    "company_name": "TECHM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -0.51,
+        "5_years": 6.75,
+        "10_years": 7.07
+      },
+      "compounded_profit_growth": {
+        "3_years": -8.06,
+        "5_years": -2.81,
+        "10_years": 2.23
+      },
+      "return_on_equity": {
+        "3_years": 13.55,
+        "5_years": 15.82,
+        "10_years": 17.63
+      },
+      "debt_analysis": {
+        "current_debt": 2035.0,
+        "current_equity": 26446.0,
+        "debt_to_equity_ratio": 7.69,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 15.8%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -0.5% over past 3 years.",
+      "The company has delivered a poor sales growth of 6.8% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "TITAN": {
+    "company_id": "TITAN",
+    "company_name": "TITAN",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.31,
+        "5_years": 20.27,
+        "10_years": 17.06
+      },
+      "compounded_profit_growth": {
+        "3_years": -0.32,
+        "5_years": 27.2,
+        "10_years": 16.99
+      },
+      "return_on_equity": {
+        "3_years": 32.72,
+        "5_years": 26.95,
+        "10_years": 23.74
+      },
+      "debt_analysis": {
+        "current_debt": 21648.0,
+        "current_equity": 9736.0,
+        "debt_to_equity_ratio": 222.35,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 32.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 26.9%",
+      "Company has delivered good profit growth of 27.2% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 222.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor profit growth of -0.3% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "TORNTPHARM": {
+    "company_id": "TORNTPHARM",
+    "company_name": "TORNTPHARM",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 5.52,
+        "5_years": 7.14,
+        "10_years": 5.39
+      },
+      "compounded_profit_growth": {
+        "3_years": 14.36,
+        "5_years": 8.26,
+        "10_years": 0.72
+      },
+      "return_on_equity": {
+        "3_years": 23.02,
+        "5_years": 20.71,
+        "10_years": 21.98
+      },
+      "debt_analysis": {
+        "current_debt": 3128.0,
+        "current_equity": 7504.0,
+        "debt_to_equity_ratio": 41.68,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 23.0%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 20.7%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 5.5% over past 3 years.",
+      "The company has delivered a poor sales growth of 7.1% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "TRENT": {
+    "company_id": "TRENT",
+    "company_name": "TRENT",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 22.16,
+        "5_years": 42.1,
+        "10_years": 24.45
+      },
+      "compounded_profit_growth": {
+        "3_years": 66.21,
+        "5_years": null,
+        "10_years": 41.81
+      },
+      "return_on_equity": {
+        "3_years": 30.05,
+        "5_years": 16.76,
+        "10_years": 10.87
+      },
+      "debt_analysis": {
+        "current_debt": 1842.0,
+        "current_equity": 4680.0,
+        "debt_to_equity_ratio": 39.36,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 30.1%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 16.8%",
+      "Company has delivered good profit growth of 66.2% over past 3 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "TVSMOTOR": {
+    "company_id": "TVSMOTOR",
+    "company_name": "TVSMOTOR",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 10.28,
+        "5_years": 17.17,
+        "10_years": 14.19
+      },
+      "compounded_profit_growth": {
+        "3_years": 16.95,
+        "5_years": 28.06,
+        "10_years": 17.18
+      },
+      "return_on_equity": {
+        "3_years": 25.66,
+        "5_years": 21.9,
+        "10_years": 22.34
+      },
+      "debt_analysis": {
+        "current_debt": 14619.0,
+        "current_equity": 7760.0,
+        "debt_to_equity_ratio": 188.39,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 25.7%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 21.9%"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 188.4%",
+      "Company is not paying out dividend."
+    ],
+    "status": "success"
+  },
+  "ULTRACEMCO": {
+    "company_id": "ULTRACEMCO",
+    "company_name": "ULTRACEMCO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 4.09,
+        "5_years": 9.78,
+        "10_years": 10.98
+      },
+      "compounded_profit_growth": {
+        "3_years": 7.21,
+        "5_years": 2.74,
+        "10_years": 9.69
+      },
+      "return_on_equity": {
+        "3_years": 10.39,
+        "5_years": 11.61,
+        "10_years": 11.08
+      },
+      "debt_analysis": {
+        "current_debt": 16964.0,
+        "current_equity": 61365.0,
+        "debt_to_equity_ratio": 27.64,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 4.1% over past 3 years.",
+      "The company has delivered a poor sales growth of 9.8% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "UNIONBANK": {
+    "company_id": "UNIONBANK",
+    "company_name": "UNIONBANK",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 9.67,
+        "5_years": 9.08,
+        "10_years": 12.72
+      },
+      "compounded_profit_growth": {
+        "3_years": 24.29,
+        "5_years": 41.68,
+        "10_years": 28.35
+      },
+      "return_on_equity": {
+        "3_years": 15.42,
+        "5_years": 12.56,
+        "10_years": 2.72
+      },
+      "debt_analysis": {
+        "current_debt": 1251568.0,
+        "current_equity": 97598.0,
+        "debt_to_equity_ratio": 1282.37,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 15.4%",
+      "Company has delivered good profit growth of 24.3% over past 3 years",
+      "Company has delivered good profit growth of 41.7% over past 5 years"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 1282.4%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 9.7% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "UNITDSPR": {
+    "company_id": "UNITDSPR",
+    "company_name": "UNITDSPR",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 3.66,
+        "5_years": 7.77,
+        "10_years": 3.36
+      },
+      "compounded_profit_growth": {
+        "3_years": 7.58,
+        "5_years": 31.1,
+        "10_years": 25.64
+      },
+      "return_on_equity": {
+        "3_years": 18.97,
+        "5_years": 16.41,
+        "10_years": 16.18
+      },
+      "debt_analysis": {
+        "current_debt": 518.0,
+        "current_equity": 7632.0,
+        "debt_to_equity_ratio": 6.79,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.0%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 16.4%",
+      "Company has delivered good profit growth of 31.1% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 3.7% over past 3 years.",
+      "The company has delivered a poor sales growth of 7.8% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "VEDL": {
+    "company_id": "VEDL",
+    "company_name": "VEDL",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -0.65,
+        "5_years": 10.41,
+        "10_years": 8.44
+      },
+      "compounded_profit_growth": {
+        "3_years": 2.99,
+        "5_years": 1.05,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": 34.53,
+        "5_years": 32.8,
+        "10_years": 17.07
+      },
+      "debt_analysis": {
+        "current_debt": 79808.0,
+        "current_equity": 37488.0,
+        "debt_to_equity_ratio": 212.89,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 34.5%",
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 32.8%"
+    ],
+    "cons": [
+      "Company has high debt levels with debt-to-equity ratio of 212.9%",
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -0.7% over past 3 years."
+    ],
+    "status": "success"
+  },
+  "WIPRO": {
+    "company_id": "WIPRO",
+    "company_name": "WIPRO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": -0.63,
+        "5_years": 7.47,
+        "10_years": 5.65
+      },
+      "compounded_profit_growth": {
+        "3_years": 3.19,
+        "5_years": 2.82,
+        "10_years": 3.38
+      },
+      "return_on_equity": {
+        "3_years": 14.96,
+        "5_years": 16.68,
+        "10_years": 16.96
+      },
+      "debt_analysis": {
+        "current_debt": 19282.0,
+        "current_equity": 81376.0,
+        "debt_to_equity_ratio": 23.69,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has a good return on equity (ROE) track record: 5 Years ROE 16.7%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of -0.6% over past 3 years.",
+      "The company has delivered a poor sales growth of 7.5% over past 5 years."
+    ],
+    "status": "success"
+  },
+  "ZOMATO": {
+    "company_id": "ZOMATO",
+    "company_name": "ZOMATO",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 36.42,
+        "5_years": 55.23,
+        "10_years": null
+      },
+      "compounded_profit_growth": {
+        "3_years": null,
+        "5_years": null,
+        "10_years": null
+      },
+      "return_on_equity": {
+        "3_years": -0.05,
+        "5_years": -3.65,
+        "10_years": null
+      },
+      "debt_analysis": {
+        "current_debt": 1159.0,
+        "current_equity": 21318.0,
+        "debt_to_equity_ratio": 5.44,
+        "debt_trend": "increasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company has delivered good sales growth of 36.4% over past 3 years",
+      "Company has delivered good sales growth of 55.2% over past 5 years"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "Company has a low return on equity of -0.1% over last 3 years.",
+      "Company has a low return on equity of -3.6% over last 5 years."
+    ],
+    "status": "success"
+  },
+  "ZYDUSLIFE": {
+    "company_id": "ZYDUSLIFE",
+    "company_name": "ZYDUSLIFE",
+    "analysis": {
+      "compounded_sales_growth": {
+        "3_years": 7.62,
+        "5_years": 8.32,
+        "10_years": 8.59
+      },
+      "compounded_profit_growth": {
+        "3_years": 28.5,
+        "5_years": 15.23,
+        "10_years": 8.5
+      },
+      "return_on_equity": {
+        "3_years": 17.44,
+        "5_years": 19.26,
+        "10_years": 20.31
+      },
+      "debt_analysis": {
+        "current_debt": 190.0,
+        "current_equity": 21825.0,
+        "debt_to_equity_ratio": 0.87,
+        "debt_trend": "decreasing"
+      },
+      "dividend_analysis": {
+        "current_dividend_payout": 0.0,
+        "dividend_status": "not_paying"
+      }
+    },
+    "pros": [
+      "Company is almost debt-free.",
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 17.4%"
+    ],
+    "cons": [
+      "Company is not paying out dividend.",
+      "The company has delivered a poor sales growth of 7.6% over past 3 years.",
+      "The company has delivered a poor sales growth of 8.3% over past 5 years."
+    ],
+    "status": "success"
+  }
+}
